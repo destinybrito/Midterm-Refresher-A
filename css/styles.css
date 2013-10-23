@@ -1,8 +1,16 @@
 /* Stylesheet */
+p{
+	font-family: 'Noto Serif', serif;
+	}
 
 footer {
-	background: #6FC
+	background: #6FC;
 	}
+
+section {
+	background: #F69
+	}
+
 
 /* Helper Class to Show Grid */
 .showgrid {
