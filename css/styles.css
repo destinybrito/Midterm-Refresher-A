@@ -1,14 +1,20 @@
 /* Stylesheet */
-p{
+
+body {
+	background: url("../img/bg.png");
+	}
+
+
+p {
 	font-family: 'Noto Serif', serif;
 	}
 
 footer {
-	background: #6FC;
+	
 	}
 
 section {
-	background: #F69
+	
 	}
 
 
